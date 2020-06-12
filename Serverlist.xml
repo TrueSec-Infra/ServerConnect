@@ -1,0 +1,11 @@
+<Settings>
+ <Servers>
+  <Server Name = "SRV001">
+   <OOBType>IPMI</OOBType>
+   <OOBIP>192.168.0.110</OOBIP>
+   <KVMAccess>ILO</KVMAccess>
+   <OOBUsername>admin</OOBUsername>
+   <OOBPassword>password</OOBPassword>
+  </Server>
+ </Servers>
+</Settings>
